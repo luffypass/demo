@@ -1,14 +1,35 @@
 # Demo Flow 
 
-## Scan the below encrypted with SGWorkpass 2.0 
-Store Valid Cert 
+## Scan the below encrypted
 
-Store Expired Cert
+### Store
 
-View Expired Cert
+**Valid Cert**
 
-View Revoked Cert
+![Valid Cert ](/qr_codes/StoreValidCert.png)
 
-View Tampered Cert
+**Expired Cert**
 
-View Valid Cert
+![Expired Cert ](/qr_codes/StoreExpiredCert.png)
+
+---
+
+### View 
+
+Expired Cert
+
+![Expired Cert](/qr_codes/ViewExpiredCert.png)
+
+Revoked Cert
+
+![Revoked Cert](/qr_codes/ViewRevoked.png)
+
+Tampered Cert
+
+![Tampered Cert](/qr_codes/ViewTamperedCert.png)
+
+Valid Cert
+
+![Valid Cert](/qr_codes/ViewValidCert.png)
+
+---

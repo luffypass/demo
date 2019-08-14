@@ -1,0 +1,21 @@
+
+VIEW TAMPERED
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_tampered_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"16226e437efffde8d7d692aaba4d1f0df7a6ec725aa63f7d0c894ba391147e4c"}
+
+VIEW REVOKED
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_revoked_cert.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"e6e84e0c2af5b9f02bd99ee44a602747a3cc0ed53e86777d2f56048fe64590de"}
+
+VIEW VALID
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"3922c16d9f682fe481cb01877277129e907f4ea7628aba1191ff259d3065397d"}
+
+VIEW EXPIRED
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_expired_cert_2.json","type":"OPEN-ATTESTATION-TYPE-1","key":"cd363113313c2923f01d53bd0e13c89b46526ce0466f2c5bfc4fa16b58d2a0d1"}
+
+STORE EXPIRED
+STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_expired_cert_2.json","type":"OPEN-ATTESTATION-TYPE-1","key":"cd363113313c2923f01d53bd0e13c89b46526ce0466f2c5bfc4fa16b58d2a0d1"}
+
+STORE VALID
+STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"3922c16d9f682fe481cb01877277129e907f4ea7628aba1191ff259d3065397d"}
+
+RWS PUSH
+PUSH;{"uri":"https://wp-telegram.gdshive.io/post/requirements","detailsShown":["recipient.fin","recipient.dob","recipient.photo","pass.expiryDate"]}

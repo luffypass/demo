@@ -1,4 +1,4 @@
-# Demo Flow 
+# Demo Flow
 
 ## Scan the below encrypted
 
@@ -14,7 +14,7 @@
 
 ---
 
-### View 
+### View
 
 Expired Cert
 
@@ -32,4 +32,8 @@ Valid Cert
 
 ![Valid Cert](/qr_codes/ViewValidCert.png)
 
----
+### PUSH
+
+RWS Push
+
+![RWS Push](/qr_codes/RWSPush.png)

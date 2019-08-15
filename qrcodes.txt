@@ -6,7 +6,7 @@ VIEW REVOKED
 VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_revoked_cert.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"6602a420e5a21eb78918b8d056007f05e5342cfc58d2b173a40eb1fe56760678"}
 
 VIEW VALID
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"d4891ed815a772c9909ad7528532726323c6861dcfcb48e21379496bf362ebb2"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"d4891ed815a772c9909ad7528532726323c6861dcfcb48e21379496bf362ebb2"}
 
 VIEW EXPIRED
 VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_expired_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"6602a420e5a21eb78918b8d056007f05e5342cfc58d2b173a40eb1fe56760678"}

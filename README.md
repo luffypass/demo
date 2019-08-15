@@ -22,7 +22,7 @@ Expired Cert
 
 Expired With Legal Stay Cert
 
-![Expired Cert](/qr_codes/ViewExpiredWithLegalStayCert.png)
+![Expired Cert](/qr_codes/ViewExpiredWithLegalStayCert (1).png)
 
 Revoked Cert
 

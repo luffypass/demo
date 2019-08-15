@@ -11,6 +11,9 @@ VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_
 VIEW EXPIRED
 VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_expired_cert_2.json","type":"OPEN-ATTESTATION-TYPE-1","key":"cd363113313c2923f01d53bd0e13c89b46526ce0466f2c5bfc4fa16b58d2a0d1"}
 
+VIEW EXPIRED WITH LEGAL STAY
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_Expired_Cert_With_Legal_Stay.json","type":"OPEN-ATTESTATION-TYPE-1","key":"81be429789f77453e889a0eda3c14f5ceb8d8ddc93578c6c63934df142f8fbfc"}
+
 STORE EXPIRED
 STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/Encrypted_expired_cert_2.json","type":"OPEN-ATTESTATION-TYPE-1","key":"cd363113313c2923f01d53bd0e13c89b46526ce0466f2c5bfc4fa16b58d2a0d1"}
 

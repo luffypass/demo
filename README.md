@@ -20,6 +20,10 @@ Expired Cert
 
 ![Expired Cert](/qr_codes/ViewExpiredCert.png)
 
+Expired With Legal Stay Cert
+
+![Expired Cert](/qr_codes/ViewExpiredWithLegalStayCert.png)
+
 Revoked Cert
 
 ![Revoked Cert](/qr_codes/ViewRevoked.png)

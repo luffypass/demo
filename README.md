@@ -6,11 +6,11 @@
 
 **Valid Cert**
 
-![Valid Cert ](/qr_codes/StoreValidCert.png)
+![Valid Cert ](/qr_codes/StoreValid.png)
 
 **Expired Cert**
 
-![Expired Cert ](/qr_codes/StoreExpiredCert.png)
+![Expired Cert ](/qr_codes/StoreExpired.png)
 
 ---
 
@@ -18,23 +18,27 @@
 
 Expired Cert
 
-![Expired Cert](/qr_codes/ViewExpiredCert.png)
+![Expired Cert](/qr_codes/ViewExpired.png)
 
 Expired With Legal Stay Cert
 
-![Expired Cert](/qr_codes/ViewExpiredWithLegalStayCert.png)
+![Expired Cert](/qr_codes/ViewExpiredLegalStay.png)
 
 Revoked Cert
 
 ![Revoked Cert](/qr_codes/ViewRevoked.png)
 
+Revoked Cert with Legal Stay
+
+![Revoked Cert](/qr_codes/ViewRevokedLegalStay.png)
+
 Tampered Cert
 
-![Tampered Cert](/qr_codes/ViewTamperedCert.png)
+![Tampered Cert](/qr_codes/ViewTampered.png)
 
 Valid Cert
 
-![Valid Cert](/qr_codes/ViewValidCert.png)
+![Valid Cert](/qr_codes/ViewValid.png)
 
 ### PUSH
 

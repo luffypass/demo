@@ -1,24 +1,41 @@
 
 VIEW TAMPERED
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_tampered_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"4a4781908b309bf2e1f985fff87e75d5b7e58b4eb792e55486c48e0fd5efb134"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_tampered.json","type":"OPEN-ATTESTATION-TYPE-1","key":"8565fa82a6d5c6019aecd56b47f32d61b36ae0bd1fec2f9b369a007a71273b2a"}
 
 VIEW REVOKED
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_revoked_cert.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"6602a420e5a21eb78918b8d056007f05e5342cfc58d2b173a40eb1fe56760678"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_revoked.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"0e022a35dea6d55c43ba32c656fd2641d4a7e2b8a2fbf14ccac57c40d85bb803"}
+
+VIEW REVOKED WITH LEGAL STAY
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_revoked_with_legal_stay.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"02963e29996851ef48fdc123cc73c2b6f3f666deb892d6d12a98427604b557b7"}
 
 VIEW VALID
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"d4891ed815a772c9909ad7528532726323c6861dcfcb48e21379496bf362ebb2"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_valid.json","type":"OPEN-ATTESTATION-TYPE-1","8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
 
 VIEW EXPIRED
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_expired_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"6602a420e5a21eb78918b8d056007f05e5342cfc58d2b173a40eb1fe56760678"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_expired.json","type":"OPEN-ATTESTATION-TYPE-1","key":"4b969d5fad415dfb6ea5accd900fdc1deeaf3da34fe0314938d85abeb1e0a994"}
 
 VIEW EXPIRED WITH LEGAL STAY
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_Expired_Cert_With_Legal_Stay.json","type":"OPEN-ATTESTATION-TYPE-1","key":"aa1b4c69497068a688ed3c0af6ee2d199b3594ecdea666ed9027200b20f38e0a"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_expired_with_legal_stay.json","type":"OPEN-ATTESTATION-TYPE-1","key":"69ecfa3801417b97e7cc721b2a40ac5a789ed6ffd2321b983539d669fc2d43f3"}
 
 STORE EXPIRED
-STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_expired_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"cd363113313c2923f01d53bd0e13c89b46526ce0466f2c5bfc4fa16b58d2a0d1"}
+STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_expired.json","type":"OPEN-ATTESTATION-TYPE-1","key":"4b969d5fad415dfb6ea5accd900fdc1deeaf3da34fe0314938d85abeb1e0a994"}
 
 STORE VALID
-STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/master/encrypted_pass/Encrypted_valid_cert.json","type":"OPEN-ATTESTATION-TYPE-1","key":"d4891ed815a772c9909ad7528532726323c6861dcfcb48e21379496bf362ebb2"}
+STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_valid.json","type":"OPEN-ATTESTATION-TYPE-1","key":"8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
 
 RWS PUSH
 PUSH;{"uri":"https://wp-telegram.gdshive.io/post/requirements","detailsShown":["recipient.fin","recipient.dob","recipient.photo","pass.expiryDate"]}
+
+
+Doing:  cert_tampered.json
+VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/undefined","type":"OPEN-ATTESTATION-TYPE-1"}
+Doing:  cert_expired.json
+VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/87db5352-36b5-4087-9780-1528d951305d","type":"OPEN-ATTESTATION-TYPE-1","key":"4b969d5fad415dfb6ea5accd900fdc1deeaf3da34fe0314938d85abeb1e0a994"}
+Doing:  cert_revoked_with_legal_stay.json
+VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/b7290a8b-1ab4-40c9-a9c3-1c901e8f68d2","type":"OPEN-ATTESTATION-TYPE-1","key":"02963e29996851ef48fdc123cc73c2b6f3f666deb892d6d12a98427604b557b7"}
+Doing:  cert_expired_with_legal_stay.json
+VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/ec2aebc3-80d4-469f-83ea-88728a56f91c","type":"OPEN-ATTESTATION-TYPE-1","key":"69ecfa3801417b97e7cc721b2a40ac5a789ed6ffd2321b983539d669fc2d43f3"}
+Doing:  cert_valid.json
+STORE;{"uri":"https://api-ropsten.opencerts.io/storage/get/4b6fee1d-a552-4044-9c77-31c644e37b79","type":"OPEN-ATTESTATION-TYPE-1","key":"8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
+Doing:  cert_revoked.json
+VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/b07b8b41-e83f-4c25-ba83-b00170c51be2","type":"OPEN-ATTESTATION-TYPE-1","key":"0e022a35dea6d55c43ba32c656fd2641d4a7e2b8a2fbf14ccac57c40d85bb803"}

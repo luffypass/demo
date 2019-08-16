@@ -25,17 +25,3 @@ STORE;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/enc
 
 RWS PUSH
 PUSH;{"uri":"https://wp-telegram.gdshive.io/post/requirements","detailsShown":["recipient.fin","recipient.dob","recipient.photo","pass.expiryDate"]}
-
-
-Doing:  cert_tampered.json
-VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/undefined","type":"OPEN-ATTESTATION-TYPE-1"}
-Doing:  cert_expired.json
-VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/87db5352-36b5-4087-9780-1528d951305d","type":"OPEN-ATTESTATION-TYPE-1","key":"4b969d5fad415dfb6ea5accd900fdc1deeaf3da34fe0314938d85abeb1e0a994"}
-Doing:  cert_revoked_with_legal_stay.json
-VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/b7290a8b-1ab4-40c9-a9c3-1c901e8f68d2","type":"OPEN-ATTESTATION-TYPE-1","key":"02963e29996851ef48fdc123cc73c2b6f3f666deb892d6d12a98427604b557b7"}
-Doing:  cert_expired_with_legal_stay.json
-VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/ec2aebc3-80d4-469f-83ea-88728a56f91c","type":"OPEN-ATTESTATION-TYPE-1","key":"69ecfa3801417b97e7cc721b2a40ac5a789ed6ffd2321b983539d669fc2d43f3"}
-Doing:  cert_valid.json
-STORE;{"uri":"https://api-ropsten.opencerts.io/storage/get/4b6fee1d-a552-4044-9c77-31c644e37b79","type":"OPEN-ATTESTATION-TYPE-1","key":"8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
-Doing:  cert_revoked.json
-VIEW;{"uri":"https://api-ropsten.opencerts.io/storage/get/b07b8b41-e83f-4c25-ba83-b00170c51be2","type":"OPEN-ATTESTATION-TYPE-1","key":"0e022a35dea6d55c43ba32c656fd2641d4a7e2b8a2fbf14ccac57c40d85bb803"}

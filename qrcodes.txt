@@ -9,7 +9,7 @@ VIEW REVOKED WITH LEGAL STAY
 VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_revoked_with_legal_stay.json","id":"a6603a58-3991-4b90-b577-047769de1ef3","type":"OPEN-ATTESTATION-TYPE-1","key":"02963e29996851ef48fdc123cc73c2b6f3f666deb892d6d12a98427604b557b7"}
 
 VIEW VALID
-VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_valid.json","type":"OPEN-ATTESTATION-TYPE-1","8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_valid.json","type":"OPEN-ATTESTATION-TYPE-1","key":"8f35dbcb9866ef46155732f518a96361d8d380f3cdc52ac6b7b93698e8eece75"}
 
 VIEW EXPIRED
 VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/updatedCerts/encrypted_pass/cert_expired.json","type":"OPEN-ATTESTATION-TYPE-1","key":"4b969d5fad415dfb6ea5accd900fdc1deeaf3da34fe0314938d85abeb1e0a994"}

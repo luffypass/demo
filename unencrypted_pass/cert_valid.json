@@ -10,6 +10,7 @@
         ],
         "pass": {
             "type": "dafc28ea-aa63-4fa7-a521-3883f8283cf4:string:Employment Pass",
+            "sponsoringPass": "",
             "status": "148e9552-9919-49ca-be79-fefd6bf6c69b:string:Live",
             "expiryDate": "07511d5a-be20-43ac-a7b8-8942a7e8e440:string:2020-11-14T00:00:00+00:00",
             "legalTillDate": "3f7dd507-1037-41fd-99b3-8b98cf973466:string:2020-11-14T00:00:00+00:00",

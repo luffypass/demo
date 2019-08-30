@@ -1,6 +1,6 @@
 # Demo Flow
 
-## Scan the below encrypted
+## Scan the below encrypted with SGWorkpass 2.0
 
 ### Store
 

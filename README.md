@@ -28,10 +28,6 @@ Revoked Cert
 
 ![Revoked Cert](/qr_codes/ViewRevoked.png)
 
-Revoked Cert with Legal Stay
-
-![Revoked Cert](/qr_codes/ViewRevokedLegalStay.png)
-
 Tampered Cert
 
 ![Tampered Cert](/qr_codes/ViewTampered.png)

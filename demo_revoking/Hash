@@ -4,3 +4,14 @@
 Store address: 0x2E78f5B281db0326F287241c6CADc2BB8A9F735f
 
 https://admin.opencerts.io/deploy/
+
+backupRevoke
+
+"cert_revoked.json": "9974bf7a9d47d616a5970c58d01472be6cb420f61c888940bb99aabf3f86a467", PUTTING ON GITHUB
+"cert_revoked_with_legal_stay.json": "01dc5726d7581da1c1103024aa10959cf004c4c36473d21b80dabb9f2a83f3f1", PUTTING ON GITHUB
+
+Doing:  cert_revoked.json
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/dpCerts/demo_revoking/backup_revoke/cert_revoked.json","type":"OPEN-ATTESTATION-TYPE-1","key":"c14bbc76d8f26c544ccc654fc8daa963402aebc04fd4381deff98477acf66058"}
+
+Doing:  cert_revoked_with_legal_stay.json
+VIEW;{"uri":"https://raw.githubusercontent.com/sgworkpass/demo/dpCerts/demo_revoking/backup_revoke/cert_revoked_with_legal_stay.json","type":"OPEN-ATTESTATION-TYPE-1","key":"3d80844b76949007a357365a4dc38f0e3b50593e90a7f99cf3b7199ab5743acd"}
